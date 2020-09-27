@@ -209,7 +209,7 @@ ggsave(game_tweet_map, file="Location map by time.jpg")
 
 
 
-}
+
 
 #
 #### Map used in markdown
@@ -227,6 +227,7 @@ our_theme<-function(x){
         strip.text.x=element_text(size=12, color="black"),
         strip.text.y=element_text(size=12, color="black"),
         legend.position="right")
+  }
 
 ## Identify latitude/longitude ##
 df_loc<-lat_lng(df)
