@@ -1,4 +1,4 @@
-# Game-Release-Analysis
+# Game Release Analysis: Project Overview
 
 Work in progress...
 
