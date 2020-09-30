@@ -8,7 +8,7 @@ __Twitch API__: https://github.com/Freguglia/rTwitchAPI \
 __Twitter API__: https://developer.twitter.com/en/docs/twitter-api 
 
 
-![alt text](https://github.com/MaximilianGoepfert/Game-Release-Analysis/bob/master/StreamPosition.png "Twitch Most Streamed Games Position")
+![alt text](https://github.com/MaximilianGoepfert/Game-Release-Analysis/blob/master/StreamPosition.png "Twitch Most Streamed Games Position")
 
 
 ## Conclusions
