@@ -9,8 +9,8 @@ __Twitter API__: https://developer.twitter.com/en/docs/twitter-api
 
 
 ![alt text](https://github.com/MaximilianGoepfert/Game-Release-Analysis/blob/master/StreamPosition.png "Twitch Most Streamed Games Position")
-![alt text](https://github.com/MaximilianGoepfert/Game-Release-Analysis/blob/master/Outer_Worlds_Pre-Release_Location_Map.png "Location Map")
 ![alt text](https://github.com/MaximilianGoepfert/Game-Release-Analysis/blob/master/Tweet_timeline.png "Tweet Timeline")
+![alt text](https://github.com/MaximilianGoepfert/Game-Release-Analysis/blob/master/Outer_Worlds_Pre-Release_Location_Map.png "Location Map")
 
 
 ## Conclusions
