@@ -1,7 +1,7 @@
 # Game Release Analysis: Project Overview
 - Analysed the launch of video game titles 'Call of Duty: Modern Warfare' and 'The Outer Worlds' through Social Media analysis.
-- Downloaded over 420'000 tweets as well as data from streaming platform Twitch, collected during October 2019.
-- Analysed the content, location, and timeline of downloaded tweets, also made use of statistical analysis.
+- Downloaded over 420'000 tweets as well as data from streaming platform Twitch, both collected during October 2019.
+- Analysed the content, location, and timeline of downloaded tweets, also making use of statistical analysis.
 - Compared the games' popularities on Twitch.
 
 ## Data Download
