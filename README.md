@@ -24,7 +24,7 @@ __Twitter API__: https://developer.twitter.com/en/docs/twitter-api
   + Outer Worlds: Sentiment increased following release
 - Sales Figures
   + Modern Warfare: Highest sales following release - as expected from a well-known franchise
-  + Outer Worlds: Second highest sales in October - surprising for agame without an existing fanbase - suggesting a successful marketing strategy
+  + Outer Worlds: Second highest sales in October - surprising for a game without an existing fanbase - suggesting a successful marketing strategy
 
 
 Work in progress...
