@@ -1,5 +1,7 @@
 # Game Release Analysis: Project Overview
-
+- Analysed the launch of video game titles 'Call of Duty: Modern Warfare' and 'The Outer Worlds' through Social Media
+- Downloaded over 420'000 tweets as well as data from streaming platform Twitch
+-
 
 ## Code and Resources Used
 __R Version__: 3.6.2 \
