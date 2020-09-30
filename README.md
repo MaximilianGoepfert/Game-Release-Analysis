@@ -13,7 +13,7 @@ __Packages__: tidyr, tidytext, dplyr, ggplot2, ggthemes, rtweet, jsonlite, readr
 __Twitch API__: https://github.com/Freguglia/rTwitchAPI \
 __Twitter API__: https://developer.twitter.com/en/docs/twitter-api 
 
-
+## Analysis
 ![alt text](https://github.com/MaximilianGoepfert/Game-Release-Analysis/blob/master/StreamPosition.png "Twitch Most Streamed Games Position")
 ![alt text](https://github.com/MaximilianGoepfert/Game-Release-Analysis/blob/master/Outer_Worlds_Pre-Release_Location_Map.png "Location Map")
 ![alt text](https://github.com/MaximilianGoepfert/Game-Release-Analysis/blob/master/Tweet_timeline.png "Tweet Timeline")
