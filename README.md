@@ -12,7 +12,7 @@ __Twitter API__: https://developer.twitter.com/en/docs/twitter-api
 
 ## Data Download
 Twitter:
-- Downloaded tweets that contained the keywords "outer worlds", "modern warfare", or "call of duty" in their text or hashtag.
+- Downloaded tweets that featured the keywords "TheOuterWorlds", "modernwarfare", or "CallofDuty" as a hashtag and/or contained in its text.
 - For each keyword a maximum of 18'000 tweets per day were downloaded (where possible) for the period of 23 October to 30 October.
 - The resulting data was saved in a json file; since this project can be classified as a 'Big Data' project, the resulting file cannot be provided here (due to GitHub's data size restrictions).
 
