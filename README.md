@@ -18,7 +18,7 @@ Twitter:
 
 Twitch:
 - Downloaded data from streaming platform twitch, focusing both on the total number of streams regarding both games and on their relative position within the twenty most streamed games.
-- The resulting data was likewise saved in a json file.
+- The resulting data was likewise saved in a json file and has been made available in the 'data' folder.
 
 ## Analysis
 ![alt text](https://github.com/MaximilianGoepfert/Game-Release-Analysis/blob/master/StreamPosition.png "Twitch Most Streamed Games Position")
