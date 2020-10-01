@@ -4,6 +4,12 @@
 - Analysed the content, location, and timeline of downloaded tweets, also making use of statistical analysis.
 - Compared the games' popularities on Twitch.
 
+## Code and Resources Used
+__R Version__: 3.6.2 \
+__Packages__: tidyr, tidytext, dplyr, ggplot2, ggthemes, rtweet, jsonlite, readr, rTwitchAPI, remotes, nortest, lubridate, wordcloud, knitr \
+__Twitch API__: https://github.com/Freguglia/rTwitchAPI \
+__Twitter API__: https://developer.twitter.com/en/docs/twitter-api 
+
 ## Data Download
 Twitter:
 - Downloaded tweets that contained "outer worlds", "modern warfare", or "call of duty".
@@ -13,12 +19,6 @@ Twitter:
 Twitch:
 - Downloaded data from streaming platform twitch, focusing both on the total number of streams regarding both games and on their relative position within the twenty most streamed games.
 - The resulting data was likewise saved in a json file.
-
-## Code and Resources Used
-__R Version__: 3.6.2 \
-__Packages__: tidyr, tidytext, dplyr, ggplot2, ggthemes, rtweet, jsonlite, readr, rTwitchAPI, remotes, nortest, lubridate, wordcloud, knitr \
-__Twitch API__: https://github.com/Freguglia/rTwitchAPI \
-__Twitter API__: https://developer.twitter.com/en/docs/twitter-api 
 
 ## Analysis
 ![alt text](https://github.com/MaximilianGoepfert/Game-Release-Analysis/blob/master/StreamPosition.png "Twitch Most Streamed Games Position")
