@@ -5,7 +5,14 @@
 - Compared the games' popularities on Twitch.
 
 ## Data Download
-abc...
+Twitter:
+- Downloaded tweets that contained "outer worlds", "modern warfare", or "call of duty".
+- For each keyword a maximum of 18'000 tweets per day were downloaded (where possible) for the period of 23 October to 30 October.
+- The resulting data was saved in a json file; since this project can be classified as a 'Big Data' project, the resulting file cannot be provided here (due to GitHub's data size restrictions).
+
+Twitch:
+- Downloaded data from streaming platform twitch, focusing both on the total number of streams regarding both games and on their relative position within the twenty most streamed games.
+- The resulting data was likewise saved in a json file.
 
 ## Code and Resources Used
 __R Version__: 3.6.2 \
@@ -36,5 +43,3 @@ __Twitter API__: https://developer.twitter.com/en/docs/twitter-api
 
 
 Work in progress...
-
-...Since this is a big data project, the used dataset cannot be provided here.
