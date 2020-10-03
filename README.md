@@ -21,11 +21,12 @@ Twitch:
 - The resulting data was likewise saved in a json file and has been made available in the 'data' folder.
 
 ## Analysis
-Performed in-depth graphical analysis of the collected data. A few of the plots can be found below.
+Performed in-depth graphical analysis of the collected data. A few of the plots can be found below:
+<br/> <br/>
 ![alt text](https://github.com/MaximilianGoepfert/Game-Release-Analysis/blob/master/StreamPosition.png "Twitch Most Streamed Games Position")
 ![alt text](https://github.com/MaximilianGoepfert/Game-Release-Analysis/blob/master/Outer_Worlds_Pre-Release_Location_Map.png "Location Map")
 ![alt text](https://github.com/MaximilianGoepfert/Game-Release-Analysis/blob/master/Tweet_timeline.png "Tweet Timeline")
-<br>
+<br/>
 Also performed statistical analysis on the tweets' sentiment scores, using the Wilcoxon Rank Sum test (also: Mann-Whitney U-Test):
 - Checked for differences in the sentiment scores of each game pre- and post release
 - Checked for differences in the sentiment scores of the games before release
@@ -45,6 +46,3 @@ Also performed statistical analysis on the tweets' sentiment scores, using the W
 - Sales Figures
   + Modern Warfare: Highest sales following release as expected from a well-known franchise.
   + Outer Worlds: Second highest sales in October - surprising for a game without an existing fanbase - suggesting a successful marketing strategy.
-
-
-Work in progress...
