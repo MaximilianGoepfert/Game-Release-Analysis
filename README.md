@@ -21,10 +21,15 @@ Twitch:
 - The resulting data was likewise saved in a json file and has been made available in the 'data' folder.
 
 ## Analysis
+Performed in-depth graphical analysis of the collected data. A few of the plots can be found below.
 ![alt text](https://github.com/MaximilianGoepfert/Game-Release-Analysis/blob/master/StreamPosition.png "Twitch Most Streamed Games Position")
 ![alt text](https://github.com/MaximilianGoepfert/Game-Release-Analysis/blob/master/Outer_Worlds_Pre-Release_Location_Map.png "Location Map")
 ![alt text](https://github.com/MaximilianGoepfert/Game-Release-Analysis/blob/master/Tweet_timeline.png "Tweet Timeline")
-
+<br>
+Also performed statistical analysis on the tweets' sentiment scores, using the Wilcoxon Rank Sum test (also: Mann-Whitney U-Test):
+- Checked for differences in the sentiment scores of each game pre- and post release
+- Checked for differences in the sentiment scores of the games before release
+- Checked for differences in the sentiment scores of the games after release
 
 ## Conclusions
 - Twitter Presence:
